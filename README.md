@@ -49,7 +49,8 @@
 
 전체 호선과 시간대의 혼잡도를 한눈에 비교하기 위해 히트맵(Heatmap)을 사용했습니다.
 
-<img width="1450" height="893" alt="image" src="https://github.com/user-attachments/assets/ffa9d178-0671-40fb-9967-00afbc629caf" />
+<img width="1459" height="893" alt="image" src="https://github.com/user-attachments/assets/47946e06-7cad-4501-8631-5af6400c06aa" />
+
 
 
 * **Insight:** 히트맵을 통해 **Line 2**가 출근 시간(08:00-09:00)과 퇴근 시간(18:00-19:00) 모두 가장 붉게(혼잡하게) 표시됨을 다시 한번 확인할 수 있습니다. 또한, `[Line 7, Line 8 등]` 역시 출퇴근 시간대에 높은 혼잡도를 보임을 파악할 수 있습니다.
